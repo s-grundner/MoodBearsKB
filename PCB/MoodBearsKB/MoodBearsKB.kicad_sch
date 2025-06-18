@@ -5,10 +5,11 @@
 	(uuid "4d1e609f-5432-4afb-8ee7-7d2d9aaaee48")
 	(paper "A4")
 	(title_block
-		(title "TOTEM split keyboard")
+		(title "Mood Bears Split Keyboard")
 		(date "2025-06-10")
 		(rev "S.3")
-		(comment 1 "made by GEIST / edited by s-grundner")
+		(company "s-grundner")
+		(comment 1 "Based on the TOTEM by GEIST")
 	)
 	(lib_symbols
 		(symbol "Device:D_Small"
@@ -1654,9 +1655,9 @@
 		)
 		(uuid "5d3b1f94-0720-45ab-828e-62fdc48891a3")
 	)
-	(text "T O T E M"
+	(text "MoodBearsKB"
 		(exclude_from_sim no)
-		(at 54.61 190.5 0)
+		(at 38.1 191.77 0)
 		(effects
 			(font
 				(face "Bauhaus 93")
