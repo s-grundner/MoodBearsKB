@@ -10,8 +10,8 @@
 94.009,-91.24,90.0,top,DL13,,,Diode_SOD27,D_Small,tht
 112.25,-99.49,-90.0,top,DL14,,,Diode_SOD27,D_Small,tht
 130.259,-102.24,-90.0,top,DL15,,,Diode_SOD27,D_Small,tht
-37.509,-93.49,100.0,top,DL16,,,Diode_SOD27,D_Small,tht
-40.509,-110.24,100.0,top,DL17,,,Diode_SOD27,D_Small,tht
+40.509,-110.24,100.0,top,DL16,,,Diode_SOD27,D_Small,tht
+37.509,-93.49,100.0,top,DL17,,,Diode_SOD27,D_Small,tht
 87.759,-114.49,-90.0,top,DL18,,,Diode_SOD27,D_Small,tht
 108.759,-114.49,-97.5,top,DL19,,,Diode_SOD27,D_Small,tht
 75.009,-66.49,92.0,top,DL2,,,Diode_SOD27,D_Small,tht
@@ -47,8 +47,8 @@
 161.8,-49.7,0.0,top,J2,,,MJ-4PP-9_1side,MJ-4PP-9,tht
 69.0,-50.0,-90.0,top,PSW1,,,MSK12C02,SW_SPDT,smt
 238.8,-50.0,-90.0,top,PSW2,,,MSK12C02,SW_SPDT,smt
-120.725,-51.7025,0.0,top,RSW1,,,SW_Tactile_SPST_Angled_PTS645Vx39-2LFS,SW_Push,tht
-174.75,-51.7025,0.0,top,RSW2,,,SW_Tactile_SPST_Angled_PTS645Vx39-2LFS,SW_Push,tht
+123.0,-52.7,0.0,top,RSW1,,,SKHLLCA010,SW_Push,tht
+177.0,-52.7,0.0,top,RSW2,,,SKHLLCA010,SW_Push,tht
 44.350509,-79.997401,10.0,top,SWL1,,,Kailh_socket_PG1350_optional,SW_Push_45deg,tht
 121.129205,-82.324769,0.0,top,SWL10,,,Kailh_socket_PG1350_optional,SW_Push_45deg,tht
 50.254623,-113.481299,10.0,top,SWL11,,,Kailh_socket_PG1350_optional,SW_Push_45deg,tht
@@ -56,8 +56,8 @@
 85.129229,-88.168408,0.0,top,SWL13,,,Kailh_socket_PG1350_optional,SW_Push_45deg,tht
 103.129241,-96.604887,0.0,top,SWL14,,,Kailh_socket_PG1350_optional,SW_Push_45deg,tht
 121.129205,-99.324989,0.0,top,SWL15,,,Kailh_socket_PG1350_optional,SW_Push_45deg,tht
-31.152565,-109.089348,10.0,top,SWL16,,,Kailh_socket_PG1350_optional,SW_Push_45deg,tht
-28.099048,-92.353352,10.0,top,SWL17,,,Kailh_socket_PG1350_optional,SW_Push_45deg,tht
+28.099048,-92.353352,10.0,top,SWL16,,,Kailh_socket_PG1350_optional,SW_Push_45deg,tht
+31.152565,-109.089348,10.0,top,SWL17,,,Kailh_socket_PG1350_optional,SW_Push_45deg,tht
 98.103165,-117.314348,0.0,top,SWL18,,,Kailh_socket_PG1350_optional,SW_Push_45deg,tht
 118.027565,-120.089348,-15.0,top,SWL19,,,Kailh_socket_PG1350_optional,SW_Push_45deg,tht
 64.530814,-64.446731,4.0,top,SWL2,,,Kailh_socket_PG1350_optional,SW_Push_45deg,tht

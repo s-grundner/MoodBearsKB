@@ -61,6 +61,70 @@
       ],
       "drc_exclusions": [
         [
+          "copper_edge_clearance|259053500|55218500|5378d3bc-e510-487f-9265-06649c74c7bb|5992e9f5-c68a-4323-b584-20f1aae3b50f",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|259789186|54965081|5378d3bc-e510-487f-9265-06649c74c7bb|b6ab3f5e-cc5b-4f6d-a54f-c430f38668e9",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|261294137|55798308|5378d3bc-e510-487f-9265-06649c74c7bb|e7b68de2-6021-4eda-b14a-fb3d27b8d65e",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|264573378|60221140|6396891b-a260-4373-a3e0-be246340f3f7|00c6e3db-acf9-4705-9ba8-2b4d9d5e1a5b",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|264832000|58330000|6396891b-a260-4373-a3e0-be246340f3f7|d75a981a-851f-4d03-a022-df607fef2449",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|265480860|58071378|6396891b-a260-4373-a3e0-be246340f3f7|739cf680-d024-4f09-91df-69440a3b1d73",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|266723140|61128622|6396891b-a260-4373-a3e0-be246340f3f7|c82dfa0c-5562-4028-b52a-39189e842fbe",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|267630622|58978860|6396891b-a260-4373-a3e0-be246340f3f7|2c235fd3-338f-4025-8c9a-87f43010c851",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|32369378|60221140|f99ae665-0b4a-4238-b03b-421806d74873|8a75d3d7-3c44-432d-979d-a04469aa713d",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|33276860|58071378|f99ae665-0b4a-4238-b03b-421806d74873|ebfec6fe-49dd-49a3-98c6-d5eda7b24eef",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|34519140|61128622|f99ae665-0b4a-4238-b03b-421806d74873|ff43c601-ddea-49b5-b74e-1bd3db77bb44",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|35168000|60870000|f99ae665-0b4a-4238-b03b-421806d74873|00abd27f-7da9-4eba-9432-fa3d325fac04",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|35426622|58978860|f99ae665-0b4a-4238-b03b-421806d74873|5d2e909b-36de-4145-ab57-fb3043258f1d",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|38705863|63401692|e6a84a3f-3138-4303-9fd8-72f60f2b6735|1085271d-e9a0-4d6c-a7d8-0d1781331842",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|40210814|64234919|e6a84a3f-3138-4303-9fd8-72f60f2b6735|7fa13091-131c-4ef2-9171-a480858e95cb",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
+          "copper_edge_clearance|40883000|64045000|e6a84a3f-3138-4303-9fd8-72f60f2b6735|a8d3fef9-3307-4946-a6cc-8fb2288d0066",
+          "XIAO BLE Bottom Pins"
+        ],
+        [
           "hole_to_hole|143443046|60880000|a7beb7fe-0bff-4518-98b8-b42fb0512113|af8a336d-93cc-4687-81ca-8f8e48ae1f51",
           "Mousebite"
         ],
@@ -201,6 +265,14 @@
           ""
         ],
         [
+          "solder_mask_bridge|160509000|81490000|18c2fea4-09e1-448e-9aab-1a40f04e95af|b2c111c1-85a5-4a06-9b80-06a20a1557a1",
+          "Bear Component"
+        ],
+        [
+          "solder_mask_bridge|160879500|74119500|0af0c6e2-ed6a-413d-83a9-c5b291985f11|fee11125-8014-480f-9f35-4c72e5486a51",
+          "Bear Component"
+        ],
+        [
           "solder_mask_bridge|161000000|71990000|5dbd2195-7b98-4217-b20e-53f7f85e054d|b0182d0d-b810-404f-b703-ccd228391cfe",
           ""
         ],
@@ -210,14 +282,6 @@
         ],
         [
           "solder_mask_bridge|161000000|86990000|04854867-bc33-480b-98fe-f7d319c5cd58|5cee83d5-c618-482e-bb79-5b19c010422a",
-          ""
-        ],
-        [
-          "solder_mask_bridge|161250000|74490000|0af0c6e2-ed6a-413d-83a9-c5b291985f11|fee11125-8014-480f-9f35-4c72e5486a51",
-          ""
-        ],
-        [
-          "solder_mask_bridge|161250000|81990000|18c2fea4-09e1-448e-9aab-1a40f04e95af|b2c111c1-85a5-4a06-9b80-06a20a1557a1",
           ""
         ],
         [
@@ -353,8 +417,12 @@
           ""
         ],
         [
-          "solder_mask_bridge|166750000|81990000|3ca67749-f3f6-4e65-95d6-cc046c08991d|a0b02399-a569-4080-89f5-cf329d23cb9c",
-          ""
+          "solder_mask_bridge|165625000|74115000|86c57160-2e84-4db7-9460-b01aaf5e70cc|b9763008-63d1-4ca9-b38e-7006c02c572e",
+          "Bear Component"
+        ],
+        [
+          "solder_mask_bridge|166000000|81490000|3ca67749-f3f6-4e65-95d6-cc046c08991d|a0b02399-a569-4080-89f5-cf329d23cb9c",
+          "Bear Component"
         ],
         [
           "solder_mask_bridge|167500000|71990000|b2665a4b-cb22-4bdf-bb62-925533206704|e3221c99-4f28-4d88-953f-d572e7efe342",

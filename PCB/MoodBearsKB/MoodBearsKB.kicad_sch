@@ -7958,6 +7958,7 @@
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 127 67.31 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7981,7 +7982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx39-2LFS"
+		(property "Footprint" "TOTEMlib:SKHLLCA010"
 			(at 127 62.23 0)
 			(effects
 				(font
@@ -11147,7 +11148,6 @@
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 171.45 67.31 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11171,7 +11171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx39-2LFS"
+		(property "Footprint" "TOTEMlib:SKHLLCA010"
 			(at 171.45 62.23 0)
 			(effects
 				(font
