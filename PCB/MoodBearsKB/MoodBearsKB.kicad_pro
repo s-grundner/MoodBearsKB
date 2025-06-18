@@ -895,7 +895,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../GERBER/",
+      "plot": "../../docs/pdf",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../totem_0_2.step",
