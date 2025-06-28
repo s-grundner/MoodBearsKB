@@ -6823,7 +6823,7 @@
 		)
 		(fp_line
 			(start -7 7)
-			(end -6 7.000003)
+			(end -6 7.000004)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -6832,7 +6832,7 @@
 			(uuid "65362540-69c4-40f3-885b-cac60b3add79")
 		)
 		(fp_line
-			(start -7.000003 -6)
+			(start -7.000004 -6)
 			(end -7 -7)
 			(stroke
 				(width 0.15)
@@ -6862,7 +6862,7 @@
 			(uuid "48294c78-8edb-4b82-97b3-9070afa56cc6")
 		)
 		(fp_line
-			(start 7.000003 6)
+			(start 7.000004 6)
 			(end 7 7)
 			(stroke
 				(width 0.15)
@@ -6873,7 +6873,7 @@
 		)
 		(fp_line
 			(start 7 -7)
-			(end 6 -7.000003)
+			(end 6 -7.000004)
 			(stroke
 				(width 0.15)
 				(type solid)

@@ -898,7 +898,7 @@
       "plot": "../../docs/pdf",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../totem_0_2.step",
+      "step": "../../docu/MoodBearsKB.step",
       "svg": "",
       "vrml": ""
     },
