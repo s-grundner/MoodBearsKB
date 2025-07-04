@@ -1,0 +1,6 @@
+include:
+  - board: seeeduino_xiao_ble
+    shield: mbkb_left
+  - board: seeeduino_xiao_ble
+    shield: mbkb_right
+# there is no settingsreset (needed) for the XIAO

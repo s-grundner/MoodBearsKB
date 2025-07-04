@@ -1,0 +1,11 @@
+file_format: "1"
+id: mbkb
+name: MBKB
+type: shield
+url: https://github.com/s-grundner/MoodBearsKB
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - totem_left
+  - totem_right
