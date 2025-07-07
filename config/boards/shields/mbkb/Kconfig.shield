@@ -3,3 +3,6 @@ config SHIELD_MBKB_LEFT
 
 config SHIELD_MBKB_RIGHT
     def_bool $(shields_list_contains, mbkb_right)
+
+config SHIELD_MBKB_DONGLE
+    def_bool $(shields_list_contains, mbkb_dongle)
