@@ -1,6 +1,11 @@
 include:
   - board: seeeduino_xiao_ble
     shield: mbkb_left
+    cmake-args: -DCONFIG_ZMK_SPLIT=y -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=n
   - board: seeeduino_xiao_ble
     shield: mbkb_right
-# there is no settingsreset (needed) for the XIAO
+    cmake-args: -DCONFIG_ZMK_SPLIT=y -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=n
+  - board: seeeduino_xiao_ble
+    shield: mbkb_dongle
+  - board: seeeduino_xiao_ble
+    shield: settings_reset

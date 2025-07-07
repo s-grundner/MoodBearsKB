@@ -9,3 +9,4 @@ features:
 siblings:
   - mbkb_left
   - mbkb_right
+  - mbkb_dongle

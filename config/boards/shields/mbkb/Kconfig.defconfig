@@ -1,4 +1,4 @@
-if SHIELD_MBKB_LEFT
+if SHIELD_MBKB_DONGLE
 
 config ZMK_KEYBOARD_NAME
     default "MBKB"
@@ -6,11 +6,17 @@ config ZMK_KEYBOARD_NAME
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
+config ZMK_USB
+    default y
+
 endif
 
-if SHIELD_MBKB_LEFT || SHIELD_MBKB_RIGHT
+if SHIELD_MBKB_LEFT || SHIELD_MBKB_RIGHT || SHIELD_MBKB_DONGLE
 
 config ZMK_SPLIT
+    default y
+
+config ZMK_BLE
     default y
 
 endif
