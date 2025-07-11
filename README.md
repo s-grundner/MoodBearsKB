@@ -5,8 +5,6 @@ Personalized Totem Keyboard: PCB and Case Completely reworked.
 Inspirations:
 
 - [TOTEM Keyboard](https://github.com/GEIGEIGEIST/TOTEM)
-- [MOTE Keycaps](https://www.printables.com/model/864126-mote-choc-low-profile-flat-keycaps)
-- [REDUX Case](https://www.printables.com/model/840146-totem-redux)
 
 ## Revision 1
 
