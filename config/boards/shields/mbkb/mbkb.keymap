@@ -57,10 +57,10 @@
         nav_layer {
             label= "NAV";
             bindings = <
-                &trans  &trans  &trans    &trans     &trans          &trans  &trans    &trans     &trans     &trans  
-                &trans  &trans  &kp LALT  &kp LCTRL  &kp LSHIFT      &trans  &kp LEFT  &kp DOWN   &kp UP     &kp RIGHT  &trans  &trans  
-                &trans  &trans  &trans    &trans     &kp &caps_word  &trans  &kp HOME  &kp PG_DN  &kp PG_UP  &kp END    &trans  &trans  
-                &trans  &trans  &trans    &trans     &trans          &trans
+                &trans  &trans  &trans    &trans     &trans      &trans    &trans     &trans     &trans  
+                &trans  &trans  &kp LALT  &kp LCTRL  &kp LSHIFT  &kp LEFT  &kp DOWN   &kp UP     &kp RIGHT  &trans  &trans  
+                &trans  &trans  &trans    &trans     &caps_word  &kp HOME  &kp PG_DN  &kp PG_UP  &kp END    &trans  &trans  
+                &trans  &trans  &trans    &trans     &trans      
             >;
         };
 
@@ -76,10 +76,10 @@
             //                                     ┃   SUPER   ┃███████████┃   SPACE   ┃   ┃   SPACE   ┃    ADJ    ┃     0     ┃
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
             bindings = <
-                &kp DE_GRAVE  &kp DE_ACUTE  &kp DE_LT  &kp DE_GT    &kp DE_LBRC  &kp DE_RBRC  &kp N7       &kp N8  &kp N9  &kp DE_PLUS
-                &trans        &kp LGUI      &kp LALT   &kp LCTRL    &kp LSHIFT   &kp DE_LBKT  &kp DE_RBKT  &kp N4  &kp N5  &kp N6  &kp DE_STAR &trans
-                &trans        &trans        &kp DE_TILDE     &kp DE_FSLH  &kp DE_BSLH  &kp DE_LPAR  &kp DE_RPAR  &kp N1  &kp N2  &kp N3  &kp DE_MINUS &trans      
-                &trans        &trans        &trans     &trans       &mo ADJ      &kp N0 
+                &kp DE_GRAVE  &kp DE_ACUTE  &kp DE_LT     &kp DE_GT    &kp DE_LBRC  &kp DE_RBRC  &kp N7       &kp N8  &kp N9  &kp DE_PLUS
+                &trans        &kp LGUI      &kp LALT      &kp LCTRL    &kp LSHIFT   &kp DE_LBKT  &kp DE_RBKT  &kp N4  &kp N5  &kp N6  &kp DE_STAR &trans
+                &trans        &trans        &kp DE_TILDE  &kp DE_FSLH  &kp DE_BSLH  &kp DE_LPAR  &kp DE_RPAR  &kp N1  &kp N2  &kp N3  &kp DE_MINUS &trans      
+                &trans        &trans        &trans        &trans       &mo ADJ      &kp N0 
             >;
         };
 
