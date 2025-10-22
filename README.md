@@ -1,3 +1,5 @@
+<a href="https://deepwiki.com/s-grundner/MoodBearsKB"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+
 # Custom Keyboard
 
 Personalized Totem Keyboard: PCB and Case Completely reworked.
