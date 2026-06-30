@@ -28,3 +28,14 @@ Revision 1 is focused on using parts i have at home. This impedes the case desig
 //                                     ┃   SUPER   ┃    SYM    ┃    SPC    ┃   ┃    SPC    ┃    NUM    ┃    DEL    ┃
 //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 ```
+
+## Firmware Update
+
+1. Flash settings_reset to dongle, left, and right.
+2. Reboot/power-cycle all three devices.
+3. Flash normal firmware to dongle first.
+4. Reboot dongle.
+5. Flash normal firmware to left and right.
+6. Reboot each half again.
+7. Wait for the halves to pair to the dongle.
+
